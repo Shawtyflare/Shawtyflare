@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Shawtyflare
+- 👋 Hi, I’m @Shawtyflare but my name is Meshack Mumo
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning ruby
-- 📫 How to reach me email me at meshackmumo040404@gmail.com
+- 📫 How to reach me email me at meshackmumo04@gmail.com
 
 <!---
 Shawtyflare/Shawtyflare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
